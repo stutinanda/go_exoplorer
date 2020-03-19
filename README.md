@@ -1,5 +1,5 @@
-# go_exoplorer
+### go_exoplorer
 
-Learn golang
+1. Objective: Learn golang
 
-Material used: Linkedin learning
+2. Material used: Linkedin learning
